@@ -29,6 +29,6 @@ This repository contains the code and data for a school project focused on analy
 
 ## Contributors
 - [Jonathan Liles](https://github.com/your_username)
-- Kevin Doan
-- Yeon Jae Kim
+- [Kevin Doan](https://github.com/kevindoan910)
+- [YeonJae Kim](https://github.com/yeonkim1213)
 - Hyejun Park
